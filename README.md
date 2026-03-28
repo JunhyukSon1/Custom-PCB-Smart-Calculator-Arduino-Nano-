@@ -1,4 +1,3 @@
-# Custom-PCB-Smart-Calculator-Arduino-Nano-
 # Custom PCB Smart Calculator (Arduino Nano)
 
 Final Aseembly: ![IMG_4860](https://github.com/user-attachments/assets/829d0453-60f6-4ee0-befb-94178365e2e7)
